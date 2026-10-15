@@ -63,7 +63,3 @@ To repeat the reduced end-to-end notebook run without leaving data or checkpoint
 ```powershell
 .\.venv\Scripts\python.exe scripts\smoke_test.py
 ```
-
-## Source acknowledgement
-
-Adapted by Anoop Patel from [Shreyansh Sonkar's Shape Classification using CNN](https://github.com/Shreyansh912/Shape_Classification). The original notebook supplied the residual CNN and basic training workflow. This repository adds the demo, runtime fixes, tests, and documentation described above.
